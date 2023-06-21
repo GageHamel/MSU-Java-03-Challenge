@@ -43,6 +43,8 @@ function generatePassword() {
     }
 };
 
+
+
   // makes sure ok was selected for prompts
   if (numbers === true) {
     minimumNumbers = functionArray.getNumbers();
